@@ -18,7 +18,7 @@ const featuredProducts = [
     id: 1,
     name: "Premium Reef Aquarium",
     price: 1299.99,
-    image: "https://img.freepik.com/premium-photo/large-aquarium-with-tropical-fish-coral-reef-landscape_927063-2217.jpg",
+    image: "/large-aquarium.jpg",
     description: "Complete reef setup with LED lighting and filtration system",
   },
   {
@@ -32,14 +32,14 @@ const featuredProducts = [
     id: 3,
     name: "Modern Cube Aquarium",
     price: 599.99,
-    image: "https://images.meesho.com/images/products/454251366/bwplf_1200.jpg",
+    image: "/bwplf_1200.jpg",
     description: "Sleek and contemporary design for any space",
   },
   {
     id: 4,
     name: "Professional Marine Setup",
     price: 2499.99,
-    image: "https://images.unsplash.com/photo-1524704796725-9fc3044a58b2",
+    image: "/llsat.jpg",
     description: "Advanced marine aquarium with complete ecosystem support",
   },
 ];
