@@ -87,7 +87,7 @@ export function Footer(): JSX.Element {
 
         <div className="mt-8 border-t pt-8 text-center">
           <p className="text-sm text-gray-500 dark:text-gray-400">
-            © {new Date().getFullYear()} AquaCommerce. All rights reserved.
+            © {new Date().getFullYear()} LiveWithCodeAnkit. All rights reserved.
           </p>
         </div>
       </div>
