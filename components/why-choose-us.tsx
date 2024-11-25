@@ -40,7 +40,7 @@ export function WhyChooseUs() {
           Why Choose AquaCommerce?
         </h2>
         <p className="max-w-[700px] text-gray-500 dark:text-gray-400">
-          We're committed to providing the best experience for aquarium
+          We&apos;re committed to providing the best experience for aquarium
           enthusiasts.
         </p>
       </div>
