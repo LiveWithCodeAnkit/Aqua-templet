@@ -26,9 +26,9 @@ const product = {
   reviews: 124,
   stock: 8,
   images: [
-    "https://img.freepik.com/premium-photo/large-aquarium-with-tropical-fish-coral-reef-landscape_927063-2217.jpg",
+    "/large-aquarium.jpg",
     "/Freshwater aquarium.jpeg",
-    "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=800&auto=format&fit=crop&q=60",
+    "/Equipment.jpg",
   ],
   description:
     "Experience the beauty of a thriving reef ecosystem with our Premium Reef Aquarium. This complete setup includes everything you need to create and maintain a stunning marine environment.",
