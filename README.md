@@ -3,6 +3,13 @@
 ## Overview
 Aqua Template is a web application designed for aquarium enthusiasts, providing a platform to explore and purchase premium aquariums, fish, and accessories. The site aims to help users create their perfect underwater paradise with a variety of products and expert guidance.
 
+
+### Key Changes:
+- **Modern UI**: Added a note about the modern UI to emphasize the design aspect.
+- **Hero Section with Video**: Included a specific mention of the video in the hero section to highlight this feature.
+
+Feel free to adjust any specific details or add more information about the video, such as its source or purpose, if needed!
+
 ## Features
 - **Premium Product Selection**: Browse a wide range of aquariums, fish, and accessories tailored for both beginners and experienced hobbyists.
 - **Featured Products**: Highlighting popular aquarium setups and essential equipment.
