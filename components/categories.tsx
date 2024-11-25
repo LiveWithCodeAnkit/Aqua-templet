@@ -7,13 +7,13 @@ const categories = [
   {
     title: "Freshwater Aquariums",
     description: "Perfect for beginners and tropical fish enthusiasts",
-    image: "https://images.unsplash.com/photo-1534043464124-3be32fe000c9",
+    image: "/freshwaterfish.jpg",
     href: "/category/freshwater",
   },
   {
     title: "Marine & Reef",
     description: "Advanced setups for coral and marine life",
-    image: "https://images.unsplash.com/photo-1621947081720-86970823b77a",
+    image: "/marren.jpg",
     href: "/category/marine",
   },
   {
@@ -25,7 +25,7 @@ const categories = [
   {
     title: "Equipment & Supplies",
     description: "Essential tools for maintenance and care",
-    image: "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5",
+    image: "/Equipment.jpg",
     href: "/category/equipment",
   },
 ];
