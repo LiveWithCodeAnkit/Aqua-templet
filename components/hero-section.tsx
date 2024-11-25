@@ -15,7 +15,7 @@ export function HeroSection() {
         className="absolute inset-0 h-full w-full object-cover"
       >
         <source
-          src="/Stunning.mp4"
+          src="https://res.cloudinary.com/dlwqkvy2i/video/upload/v1732525076/djyjlueg0vjtip5bn0li.mp4"
           type="video/mp4"
         />
       </video>
